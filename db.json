@@ -1,0 +1,281 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Jugo de Fresa",
+      "descripcion": "Preparado con fresas frescas.",
+      "precio": 15,
+      "descuento": 3,
+      "oferta": true,
+      "categoria": "Jugos",
+      "imagen": "/images/products/fresa.jpg",
+      "destacado": true,
+      "top": "TOP 1"
+    },
+    {
+      "id": "2",
+      "nombre": "Jugo de Mango",
+      "descripcion": "Mango natural y refrescante.",
+      "precio": 14,
+      "descuento": 2,
+      "oferta": true,
+      "categoria": "Jugos",
+      "imagen": "/images/products/mango.jpg",
+      "destacado": true,
+      "top": "TOP 2"
+    },
+    {
+      "id": "3",
+      "nombre": "Sándwich",
+      "descripcion": "Ideal para acompañar tu jugo.",
+      "precio": 16,
+      "descuento": 4,
+      "oferta": true,
+      "categoria": "Sandwiches",
+      "imagen": "/images/products/sandwich.jpg",
+      "destacado": true
+    },
+    {
+      "id": "4",
+      "nombre": "Jugos Combinados",
+      "descripcion": "Combinaciones de frutas naturales.",
+      "precio": 15,
+      "categoria": "Jugos",
+      "imagen": "/images/products/jugoscombinados.jpg",
+      "destacado": true
+    },
+    {
+      "id": "5",
+      "nombre": "Jugos Especiales",
+      "descripcion": "Mezclas premium.",
+      "precio": 18,
+      "categoria": "Especiales",
+      "imagen": "/images/products/jugosurtido.jpg",
+      "destacado": false
+    },
+    {
+      "id": "6",
+      "nombre": "Smoothies",
+      "descripcion": "Batidos saludables.",
+      "precio": 15,
+      "categoria": "Smoothies",
+      "imagen": "/images/products/smoothie.jpg",
+      "destacado": false
+    },
+    {
+      "id": "7",
+      "nombre": "Limonada de Fresa",
+      "descripcion": "Refrescante y deliciosa.",
+      "precio": 12,
+      "categoria": "Bebidas",
+      "imagen": "/images/products/limonada.jpg",
+      "destacado": false
+    },
+    {
+      "id": "8",
+      "nombre": "Crepa de Fresas",
+      "descripcion": "Postre artesanal.",
+      "precio": 20,
+      "categoria": "Postres",
+      "imagen": "/images/products/crepa.avif",
+      "destacado": false
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "nombre": "Administrador",
+      "email": "admin@fresset.com",
+      "password": "123456",
+      "telefono": "982105667",
+      "direccion": "Los Olivos - Lima"
+    },
+    {
+      "nombre": "NELSON",
+      "email": "nelson@gmail.com",
+      "password": "123456",
+      "id": "oYeipunIyx4",
+      "telefono": "985698254",
+      "direccion": "Piura"
+    },
+    {
+      "nombre": "Luis",
+      "email": "luis@fresset.com",
+      "password": "123",
+      "id": "G3bJfmMcDKw",
+      "telefono": "985698785",
+      "direccion": "Trujillo"
+    },
+    {
+      "nombre": "Jose",
+      "email": "jose@fresset.com",
+      "password": "123",
+      "id": "OnzNrukRzpI"
+    }
+  ],
+  "mensajes": [
+    {
+      "nombre": "Juan",
+      "email": "juan@gmail.com",
+      "telefono": "996598562",
+      "asunto": "Info de mi pedido",
+      "mensaje": "Quiero saber el estado de mi pedido",
+      "fecha": "2/7/2026, 14:35:40",
+      "id": "KCYpWfRGkwk"
+    },
+    {
+      "nombre": "Ana",
+      "email": "anadesign@gmail.com",
+      "telefono": "",
+      "asunto": "",
+      "mensaje": "",
+      "fecha": "2/7/2026, 14:40:07",
+      "id": "z3irfBoIK9A"
+    },
+    {
+      "nombre": "",
+      "email": "",
+      "telefono": "",
+      "asunto": "",
+      "mensaje": "",
+      "fecha": "2/7/2026, 14:40:08",
+      "id": "Ia-cT-Pl0hM"
+    },
+    {
+      "nombre": "",
+      "email": "",
+      "telefono": "",
+      "asunto": "",
+      "mensaje": "",
+      "fecha": "2/7/2026, 14:40:08",
+      "id": "4NBMFl62b38"
+    },
+    {
+      "nombre": "",
+      "email": "",
+      "telefono": "",
+      "asunto": "",
+      "mensaje": "",
+      "fecha": "2/7/2026, 14:40:09",
+      "id": "wp9J8H27FV8"
+    },
+    {
+      "nombre": "",
+      "email": "",
+      "telefono": "",
+      "asunto": "",
+      "mensaje": "",
+      "fecha": "2/7/2026, 14:40:09",
+      "id": "9qQxtMMHChg"
+    },
+    {
+      "nombre": "",
+      "email": "",
+      "telefono": "",
+      "asunto": "",
+      "mensaje": "",
+      "fecha": "2/7/2026, 14:40:11",
+      "id": "c6I2TyqyzCo"
+    },
+    {
+      "nombre": "",
+      "email": "",
+      "telefono": "",
+      "asunto": "",
+      "mensaje": "",
+      "fecha": "2/7/2026, 14:40:13",
+      "id": "TewAwIF2koQ"
+    },
+    {
+      "nombre": "",
+      "email": "",
+      "telefono": "",
+      "asunto": "",
+      "mensaje": "",
+      "fecha": "2/7/2026, 14:40:13",
+      "id": "-huQKk7DmcU"
+    },
+    {
+      "nombre": "",
+      "email": "",
+      "telefono": "",
+      "asunto": "",
+      "mensaje": "",
+      "fecha": "2/7/2026, 14:40:15",
+      "id": "WKWtrutLtow"
+    },
+    {
+      "nombre": "",
+      "email": "",
+      "telefono": "",
+      "asunto": "",
+      "mensaje": "",
+      "fecha": "2/7/2026, 14:40:17",
+      "id": "KnheuOr-NZw"
+    },
+    {
+      "nombre": "Ana",
+      "email": "ana@gmail.com",
+      "telefono": "985478900",
+      "asunto": "Hola",
+      "mensaje": "Hola",
+      "fecha": "2/7/2026, 14:41:41",
+      "id": "ASMxXmdfQfA"
+    },
+    {
+      "nombre": "Maria",
+      "email": "maria@gmail.com",
+      "telefono": "958965892",
+      "asunto": "Hola",
+      "mensaje": "hola",
+      "fecha": "2/7/2026, 14:47:59",
+      "id": "or7ai_PB8Is"
+    },
+    {
+      "nombre": "NELSON",
+      "email": "admin@fresset.com",
+      "telefono": "985478986",
+      "asunto": "ff",
+      "mensaje": "fff",
+      "fecha": "2/7/2026, 14:53:58",
+      "id": "U7nywslZwiE"
+    },
+    {
+      "nombre": "NELSON",
+      "email": "admin@fresset.com",
+      "telefono": "9888",
+      "asunto": "dd",
+      "mensaje": "tt",
+      "fecha": "2/7/2026, 15:01:26",
+      "id": "OkJl-GrjbRI"
+    },
+    {
+      "nombre": "NELSON",
+      "email": "admin@fresset.com",
+      "telefono": "55",
+      "asunto": "ll",
+      "mensaje": "kkk",
+      "fecha": "2/7/2026, 15:04:07",
+      "id": "17nPUv-sdMU"
+    },
+    {
+      "nombre": "NELSON",
+      "email": "d@gmail.com",
+      "telefono": "985478986",
+      "asunto": "ff",
+      "mensaje": "ff",
+      "fecha": "2/7/2026, 15:08:25",
+      "id": "fHak55Y7DW4"
+    },
+    {
+      "nombre": "Jose",
+      "email": "u23267772@utp.edu.pe",
+      "telefono": "985478986",
+      "asunto": "gg",
+      "mensaje": "gg",
+      "fecha": "2/7/2026, 15:13:48",
+      "id": "RN809ZSsOKU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background-color: #f8fafc;
+  color: #374151;
+}
+
+.logo-font {
+  font-family: "Pacifico", cursive;
+}
+
+
+
+@layer components {
+
+  .section-container {
+    @apply max-w-7xl mx-auto px-6 py-16;
+  }
+
+  .btn-primary {
+    @apply bg-green-600 hover:bg-green-700 text-white px-8 py-3 rounded-full font-semibold transition duration-300 shadow-lg;
+  }
+
+  .btn-secondary {
+    @apply bg-orange-500 hover:bg-orange-600 text-white px-8 py-3 rounded-full font-semibold transition duration-300;
+  }
+
+  .card-hover {
+    @apply bg-white rounded-3xl shadow-md hover:shadow-xl hover:-translate-y-2 transition duration-300;
+  }
+
+  .title-section {
+    @apply text-4xl font-bold text-center mb-12;
+  }
+
+}
