@@ -276,6 +276,6 @@
       "fecha": "2/7/2026, 15:13:48",
       "id": "RN809ZSsOKU"
     }
-  ],
-  "$schema": "./node_modules/json-server/schema.json"
+  ]
+
 }
