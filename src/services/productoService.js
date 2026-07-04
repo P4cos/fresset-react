@@ -1,4 +1,4 @@
-const URL = "http://localhost:3000/productos";
+const URL = "https://my-json-server.typicode.com/P4cos/fresset-react/productos";
 
 export async function getProductos() {
     const response = await fetch(URL);

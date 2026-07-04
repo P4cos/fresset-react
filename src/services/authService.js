@@ -1,4 +1,4 @@
-const URL = "http://localhost:3000/usuarios";
+const URL = "https://my-json-server.typicode.com/P4cos/fresset-react/usuarios";
 
 
 export const getUsers = async () => {

@@ -1,4 +1,4 @@
-const URL = "http://localhost:3000/mensajes";
+const URL = "https://my-json-server.typicode.com/P4cos/fresset-react/mensajes";
 
 
 export const enviarMensaje = async (mensaje) => {
